@@ -1,4 +1,4 @@
-ActiveJDBC &mdash; ActiveRecord for Java
+ActiveJDBC &mdash; ActiveRecord (fork for Java 6)
 ==========
 
 
